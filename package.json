@@ -1,0 +1,16 @@
+{
+  "name": "code-debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "node index.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
