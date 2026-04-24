@@ -1,26 +1,3 @@
-<<<<<<< HEAD
-# stack used for this project:
-
-# Frontend: Next.js + TypeScript + Tailwind or custom CSS
-# Backend: Python + FastAPI
-# Agents: LangGraph or LangChain with multiple autonomous agents
-# LLM: OpenAI
-# Vector DB: Pinecone
-# Internal memory / metadata DB: PostgreSQL or SQLite for MVP
-# Code parsing: Python AST, tree-sitter, or simple file scanners
-# Task queue later: Celery / Redis or Temporal 
-# Sandbox: mock execution now, E2B 
-# Observability: basic logs now, OpenTelemetry  
-
-# agents to create:
-# for bug: debug logic and patch code
-# for code_review: review maintainability and suggest improvements
-# for test_failure: inspect failing test and likely cause
-# for api_error: look for schema/route/validation mismatches
-# for ci_cd_issue: inspect pipeline config and dependency failures
-# for performance_issue: flag bottlenecks and heavy operations
-# for deployment_issue: focus on env/config/server startup problems
-=======
 # Code Debugger AI
 
 <p align="center">
@@ -658,4 +635,3 @@ This project demonstrates:
 <img src="https://github.com/user-attachments/assets/4140ec0f-9a8d-4a4f-bc24-e1e484664f9e" />
 
 
->>>>>>> 262e0d2e9f8245e58b163118278e45ca8c230cb4
